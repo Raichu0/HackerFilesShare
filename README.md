@@ -51,7 +51,7 @@
 ## ✨ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐇𝐞𝐫𝐞 ✨
 
 ### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
-- [✯『➳⃝‌ ̶̶ͥ ̶ ̶ͣ ͓ ̶͓ͫ➣𝐈𝐍𝐍𝐎𝐂𝐄𝐍𝐓 𓆩🕊️⃝𝐁𝐎𝐓𓆪 [🇮🇳]』✯🇮🇳⃝🕊️](https://t.me/innocent_bot_support) 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
+- [✯『➳⃝‌ ̶̶ͥ ̶ ̶ͣ ͓ ̶͓ͫ➣𝐈𝐍𝐍𝐎𝐂𝐄𝐍𝐓 𓆩🕊️⃝𝐁𝐎𝐓𓆪 [🇮🇳]』✯🇮🇳⃝🕊️](@innocent_bot_support) 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 
 ### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎑
-<a href="https://t.me/innocent_bot_support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SonalModdingGod"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="@raichu_support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SonalModdingGod"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
